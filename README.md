@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julia</h1>
-<p align="left">I am junior frontend developer and I am really passionate about coding. As for my previous experience, I graduated from 1 year courses (250hr) at IT-Academy at May 2023 and made several projects. Now I have both technical knowledge and a strong desire to work on challenging projects and build a successful career in the IT-industry.</p>
+<h1 align="left">Hi 👋, I'm Julia</h1>
+<div align="left">I am junior frontend developer and I am really passionate about coding. As for my previous experience, I graduated from 1 year courses (250hr) at IT-Academy at May 2023 and made several projects. Now I have both technical knowledge and a strong desire to work on challenging projects and build a successful career in the IT-industry.</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
